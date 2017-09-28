@@ -1,0 +1,1650 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="42cf4787-ad55-4585-bea1-e52e640d9279" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Preview1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Preview2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/ANMOL_KC/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/ANMOL_KC/jquery.min.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/BIRAJ_BHATTA/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/BIRAJ_BHATTA/jquery.min.js.download" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_001.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_002.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_003.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_004.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_005.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_006.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_007.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_008.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_009.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_010.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_011.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_012.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_013.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_014.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_015.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_016.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_017.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_018.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_019.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_020.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_021.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_022.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_023.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_024.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_026.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_027.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_028.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_031.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_032.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_034.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_035.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_037.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_038.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_039.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_041.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_042.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_047.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_050.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_051.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_052.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_061.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_062.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_063.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_065.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_066.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_068.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_069.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_071.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_072.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_078.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_081.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_082.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_083.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_084.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_085.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_094.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_096.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_097.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_099.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_101.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_102.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_103.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_104.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_105.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_106.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_108.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_110.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_112.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_116.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_119.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_120.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_122.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_123.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_124.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_128.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_131.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_132.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_135.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_136.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_137.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_138.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_139.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_140.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_141.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_143.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_144.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_146.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_156.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_157.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_158.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_166.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_167.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_168.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_169.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_170.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_171.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_187.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_189.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_199.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_208.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_213.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_228.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_236.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_237.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_238.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_242.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_244.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_246.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_263.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/NIKHIL_UPRETI/image_264.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_001.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_002.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_003.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_004.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_005.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_006.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_007.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_008.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_009.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_010.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_011.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_012.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_013.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_014.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_015.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_016.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_017.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_018.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_019.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_020.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_021.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_022.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_023.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_024.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_025.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_026.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_027.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_028.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_029.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_030.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_031.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_032.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_033.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_034.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_035.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_036.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_037.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_038.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_039.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_040.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_042.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_043.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_046.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_048.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_049.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_050.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_051.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_052.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_054.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_055.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_057.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_058.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_060.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_064.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_066.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_069.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_070.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_071.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_072.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_073.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_075.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_076.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_077.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_078.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_079.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_081.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_083.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_084.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_085.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_087.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_090.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_093.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_096.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_097.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_098.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_099.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_101.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_103.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_106.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_107.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_110.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_112.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_114.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_118.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_119.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_125.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_126.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_127.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_131.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_132.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_134.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_142.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_146.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_149.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_153.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_154.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_155.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_159.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_160.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_180.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_185.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_188.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_194.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/RAJESH_HAMAL/image_199.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_006.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_007.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_008.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_014.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_018.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_019.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_020.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_021.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_023.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_024.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_025.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_026.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_027.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_028.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_029.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_030.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_031.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_032.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_033.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_034.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_035.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_037.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_038.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_039.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_040.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_042.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_043.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_044.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_049.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_051.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_054.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_057.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_058.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_060.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_061.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_063.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_064.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_065.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_066.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_067.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_072.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_076.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_087.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_090.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_091.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_092.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_099.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_101.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_104.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_106.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_118.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_124.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_130.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_134.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_136.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_138.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_140.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_145.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_155.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_170.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_174.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_178.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_179.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_182.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_183.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_186.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_192.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_193.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_194.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_195.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_196.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_197.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_198.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_199.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_203.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_209.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_226.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_230.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_233.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_249.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_274.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_275.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_293.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SAUGAT_MALLA/image_294.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_001.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_002.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_003.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_004.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_005.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_006.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_007.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_008.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_009.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_010.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_011.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_012.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_013.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_014.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_015.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_016.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_017.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_018.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_019.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_020.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_021.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_022.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_023.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_024.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_025.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_026.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_027.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_028.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_029.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_030.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_031.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_032.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_033.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_034.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_035.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_036.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_037.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_038.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_039.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_040.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_041.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_042.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_043.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_044.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_045.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_046.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_047.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_048.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_049.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_050.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_051.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_052.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_053.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_054.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_055.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_056.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_057.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_058.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_059.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_060.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_061.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_062.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_063.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_064.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_065.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_066.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_067.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_068.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_069.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_070.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_071.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_072.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_073.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_074.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_075.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_076.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_077.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_078.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_079.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_080.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_081.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_082.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_083.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_084.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_085.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_086.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_087.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_088.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_089.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_090.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_091.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_092.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_093.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_094.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_095.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_096.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_097.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_098.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_099.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_100.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_101.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_102.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_103.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_104.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_105.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_106.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_107.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_108.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_109.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_110.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_111.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_112.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_113.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_114.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_115.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_116.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_117.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_118.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_119.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_120.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_121.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_122.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_123.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_124.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_125.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_126.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_127.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_128.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_129.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_130.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_131.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_132.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_133.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_134.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_135.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_136.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_137.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_138.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_139.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_140.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_141.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_142.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_143.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_144.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_145.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_146.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_147.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_148.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_149.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_150.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_151.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_152.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_153.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_154.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_155.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_156.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_157.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_158.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_159.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_160.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_161.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_162.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_163.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_164.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_165.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_166.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_167.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_168.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_169.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_170.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_171.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_172.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_173.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_174.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_175.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_176.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_177.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_178.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_179.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_180.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_181.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_182.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_183.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_184.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_185.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_186.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_187.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_188.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_189.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_190.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_191.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_192.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_193.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_194.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_195.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_196.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_197.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_198.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_199.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_200.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_201.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_202.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_203.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_204.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_205.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_206.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_207.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_208.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_209.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_210.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_211.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_212.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_213.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_214.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_215.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_216.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_217.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_218.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_219.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_220.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_221.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_222.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_223.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_224.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_225.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_226.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_227.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_228.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_229.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_230.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_231.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_232.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_233.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_234.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_235.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_236.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_237.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_238.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_239.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_240.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_241.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_242.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_243.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_244.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_245.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_246.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_247.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_248.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_249.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_250.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_251.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_252.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_253.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_254.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_255.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_256.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_257.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_258.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_259.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_260.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_261.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_262.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_263.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_264.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_265.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_266.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_267.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_268.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_269.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_270.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_271.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_272.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_273.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_274.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_275.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_276.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_277.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_278.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_279.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_280.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_281.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_282.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_283.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_284.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_285.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_286.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_287.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_288.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_289.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_290.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_291.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_292.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_293.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_294.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_295.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_296.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_297.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_298.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_299.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_300.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_301.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_302.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_303.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_304.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_305.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_306.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_307.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_308.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_309.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_310.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_311.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_312.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_313.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_314.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_315.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_316.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_317.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_318.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_319.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_320.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_321.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_322.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_323.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_324.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_325.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_326.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_327.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_328.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_329.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_330.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_331.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_332.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_333.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_334.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_335.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_336.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_337.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_338.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_339.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_340.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_341.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_342.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_343.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_344.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_345.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_346.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_347.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_348.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_349.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_350.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_351.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_352.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_353.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_354.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_355.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_356.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_357.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_358.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_359.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_360.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_361.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_362.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_363.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_364.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_365.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_366.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_367.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_368.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_369.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_370.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_371.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_372.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_373.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_374.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_375.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_376.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_377.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_378.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_379.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_380.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_381.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_382.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_383.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_384.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_385.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_386.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_387.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_388.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_389.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_390.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_391.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_392.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_393.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_394.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_395.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_396.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_397.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_398.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/input_images/SRI_KRISHNA_SHRESHTHA/image_399.jpeg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/execute.py" afterPath="$PROJECT_DIR$/execute.py" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/FaceRecognizer_master$test.coverage" NAME="test Coverage Results" MODIFIED="1494561145917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FaceRecognizer_master$build_csv.coverage" NAME="build_csv Coverage Results" MODIFIED="1494225913020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FaceRecognizer_Wagle$face_recognition.coverage" NAME="face_recognition Coverage Results" MODIFIED="1506101724002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FaceRecognizer_master$detect_save_images.coverage" NAME="detect_save_images Coverage Results" MODIFIED="1494547923334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FaceRecognizer_master$scraper.coverage" NAME="scraper Coverage Results" MODIFIED="1494459171208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FaceRecognizer_master$resize_rotate_images.coverage" NAME="resize_rotate_images Coverage Results" MODIFIED="1494334899175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FaceRecognizer_master$face_recognition.coverage" NAME="face_recognition Coverage Results" MODIFIED="1494546273155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FaceRecognizer_master$face_detrec_video.coverage" NAME="face_detrec_video Coverage Results" MODIFIED="1494267952281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FaceRecognizer_Wagle$execute.coverage" NAME="execute Coverage Results" MODIFIED="1506567895436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FaceRecognizer_Wagle$ch.coverage" NAME="ch Coverage Results" MODIFIED="1494941133888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FaceRecognizer_Wagle$test.coverage" NAME="test Coverage Results" MODIFIED="1506460835390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file leaf-file-name="face_recognition.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/face_recognition.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="77">
+              <caret line="33" column="28" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="face_detect_recognition.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/face_detect_recognition.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="534">
+              <caret line="90" column="32" lean-forward="true" selection-start-line="90" selection-start-column="32" selection-end-line="90" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build_csv.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build_csv.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="face_detrec_video.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/face_detrec_video.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="282">
+              <caret line="145" column="51" lean-forward="true" selection-start-line="145" selection-start-column="51" selection-end-line="145" selection-end-column="51" />
+              <folding>
+                <element signature="e#737#747#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-36">
+              <caret line="52" column="6" lean-forward="false" selection-start-line="52" selection-start-column="6" selection-end-line="52" selection-end-column="6" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="execute.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/execute.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-213">
+              <caret line="43" column="31" lean-forward="false" selection-start-line="43" selection-start-column="31" selection-end-line="43" selection-end-column="31" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/1.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="baba.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/baba.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="scraper.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scraper.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2700">
+              <caret line="153" column="20" lean-forward="false" selection-start-line="153" selection-start-column="20" selection-end-line="153" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>OUTPUT</find>
+      <find>OUPT</find>
+      <find>wrong</find>
+      <find>save</find>
+      <find>csv</find>
+      <find>subject</find>
+      <find>ret</find>
+      <find>cv</find>
+      <find>reate</find>
+      <find>output_path</find>
+      <find>could</find>
+      <find>predict</find>
+      <find>cr</find>
+      <find>create</find>
+      <find>download</find>
+      <find>raw</find>
+      <find>output</find>
+      <find>eva</find>
+      <find>downloader</find>
+      <find>100</find>
+      <find>sleep</find>
+      <find>people</find>
+      <find>eigen</find>
+      <find>train</find>
+      <find>print</find>
+      <find>outputfiles</find>
+      <find>saves</find>
+      <find>gray</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>testfiles</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/face_detrec_video.py" />
+        <option value="$PROJECT_DIR$/../Google-Image-Downloader-master/google-images.py" />
+        <option value="$PROJECT_DIR$/scraper.py" />
+        <option value="$PROJECT_DIR$/ch.py" />
+        <option value="$PROJECT_DIR$/detect_save_images.py" />
+        <option value="$PROJECT_DIR$/resize_rotate_images.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/face_recognition.py" />
+        <option value="$PROJECT_DIR$/build_csv.py" />
+        <option value="$PROJECT_DIR$/face_detect_recognition.py" />
+        <option value="$PROJECT_DIR$/execute.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="341" />
+    <option name="y" value="32" />
+    <option name="width" value="1853" />
+    <option name="height" value="1048" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="FaceRecognizer-Wagle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FaceRecognizer-Wagle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FaceRecognizer-Wagle" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FaceRecognizer-Wagle" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="FaceRecognizer-master" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="FaceRecognizer-master" />
+        <option name="myAddSourceRoots" value="true" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/allactors" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.execute">
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="FaceRecognizer-master" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="FaceRecognizer-master" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="FaceRecognizer-master" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="FaceRecognizer-master" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="FaceRecognizer-master" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="FaceRecognizer-master" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="FaceRecognizer-master" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration name="ch" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="FaceRecognizer-master" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="detect_save_images" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="FaceRecognizer-master" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/detect_save_images.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="execute" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="FaceRecognizer-master" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/execute.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="face_recognition" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="FaceRecognizer-master" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/face_recognition.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="FaceRecognizer-master" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.face_recognition" />
+      <item index="1" class="java.lang.String" itemvalue="Python.detect_save_images" />
+      <item index="2" class="java.lang.String" itemvalue="Python.test" />
+      <item index="3" class="java.lang.String" itemvalue="Python.ch" />
+      <item index="4" class="java.lang.String" itemvalue="Python.execute" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.execute" />
+        <item index="1" class="java.lang.String" itemvalue="Python.test" />
+        <item index="2" class="java.lang.String" itemvalue="Python.face_recognition" />
+        <item index="3" class="java.lang.String" itemvalue="Python.ch" />
+        <item index="4" class="java.lang.String" itemvalue="Python.detect_save_images" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42cf4787-ad55-4585-bea1-e52e640d9279" name="Default" comment="" />
+      <created>1494221440921</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1494221440921</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22210242" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.53578734" sideWeight="0.46253368" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32922733" sideWeight="0.49791667" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23824131" sideWeight="0.52884096" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.53578734" sideWeight="0.5374663" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39977604" sideWeight="0.48958334" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3280363" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/detect_save_images.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/detect_save_images.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/face_recognition.py</url>
+          <line>80</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="9" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/face_detrec_video.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2050">
+          <caret line="87" column="7" lean-forward="false" selection-start-line="87" selection-start-column="7" selection-end-line="87" selection-end-column="7" />
+          <folding>
+            <element signature="e#737#747#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="29" lean-forward="false" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/face_recognition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1300">
+          <caret line="55" column="33" lean-forward="false" selection-start-line="55" selection-start-column="33" selection-end-line="55" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/detect_save_images.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding>
+            <element signature="e#1#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resize_rotate_images.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="15" column="49" lean-forward="false" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build_csv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="725">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="29" lean-forward="false" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/face_detrec_video.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1875">
+          <caret line="79" column="4" lean-forward="true" selection-start-line="79" selection-start-column="4" selection-end-line="79" selection-end-column="4" />
+          <folding>
+            <element signature="e#737#747#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/face_recognition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1300">
+          <caret line="55" column="33" lean-forward="false" selection-start-line="55" selection-start-column="33" selection-end-line="55" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/detect_save_images.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding>
+            <element signature="e#1#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resize_rotate_images.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="15" column="49" lean-forward="false" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build_csv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="725">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/face_detrec_video.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1900">
+          <caret line="80" column="27" lean-forward="true" selection-start-line="80" selection-start-column="27" selection-end-line="80" selection-end-column="27" />
+          <folding>
+            <element signature="e#737#747#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="29" lean-forward="false" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/face_recognition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1300">
+          <caret line="55" column="33" lean-forward="false" selection-start-line="55" selection-start-column="33" selection-end-line="55" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/detect_save_images.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding>
+            <element signature="e#1#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resize_rotate_images.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="15" column="49" lean-forward="false" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build_csv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="725">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="29" lean-forward="false" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/face_detrec_video.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2300">
+          <caret line="96" column="27" lean-forward="true" selection-start-line="96" selection-start-column="27" selection-end-line="96" selection-end-column="27" />
+          <folding>
+            <element signature="e#737#747#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haarcascade_frontalface_default.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2925">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output_images/IMG_1037.JPG.jpg" />
+    <entry file="file://$PROJECT_DIR$/sorted_output_images/pankaj/IMG_1189.JPG.jpg" />
+    <entry file="file://$PROJECT_DIR$/data.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="29" lean-forward="false" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../face_detrec_video.py" />
+    <entry file="file://C:/Program Files/Anaconda3/Lib/os.py" />
+    <entry file="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/-1282051629/cv2/face.py" />
+    <entry file="file://$PROJECT_DIR$/../Google-Image-Downloader-master/google-images.py" />
+    <entry file="file://$PROJECT_DIR$/../google-images-download-master/google-images-download.py" />
+    <entry file="file://$PROJECT_DIR$/saves" />
+    <entry file="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/-1282051629/cv2/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/savesinnew.yaml" />
+    <entry file="file://$PROJECT_DIR$/saves.yaml" />
+    <entry file="file://$PROJECT_DIR$/test.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/detect_save_images.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eigenmodel.yaml">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="323604">
+          <caret line="17978" column="38" lean-forward="false" selection-start-line="17978" selection-start-column="38" selection-end-line="17978" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resize_rotate_images.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scraper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2700">
+          <caret line="153" column="20" lean-forward="false" selection-start-line="153" selection-start-column="20" selection-end-line="153" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/cv/local/lib/python2.7/site-packages/PIL/Image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="554">
+          <caret line="2476" column="0" lean-forward="false" selection-start-line="2475" selection-start-column="0" selection-end-line="2478" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build_csv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-36">
+          <caret line="52" column="6" lean-forward="false" selection-start-line="52" selection-start-column="6" selection-end-line="52" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/baba.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="8" column="23" lean-forward="false" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/face_detrec_video.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="145" column="51" lean-forward="true" selection-start-line="145" selection-start-column="51" selection-end-line="145" selection-end-column="51" />
+          <folding>
+            <element signature="e#737#747#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/face_recognition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="33" column="28" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/face_detect_recognition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="534">
+          <caret line="90" column="32" lean-forward="true" selection-start-line="90" selection-start-column="32" selection-end-line="90" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/execute.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-213">
+          <caret line="43" column="31" lean-forward="false" selection-start-line="43" selection-start-column="31" selection-end-line="43" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
